@@ -1,0 +1,13 @@
+#tabla1 {
+    color: #fff;
+    margin: auto;
+    display: block;
+    background-color: #393939;
+    padding-bottom: 50px;
+}
+
+#tabla1 td,th {
+    display: block;
+    margin: auto;
+    color: #fff;
+}

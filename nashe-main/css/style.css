@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+.centrar_texto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tamano_img{
+    width: 350px;
+    max-width: 600px;
+    margin: auto;
+}
+.separacion{
+    margin-top: 150px;
+}
+.logo{
+    height: 80px;
+    width: 100px;
+    background-color: transparent;
+    top: 3px;
+}
+.img{
+    width: 350px;
+    max-width: 600px;
+}

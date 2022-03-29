@@ -1,0 +1,13 @@
+.centrar_texto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.separacion{
+    margin-top: 20px;
+}
+.logo{
+    height: 80px;
+    width: 100px;
+    background-color: transparent;
+    top: 3px;
+}
